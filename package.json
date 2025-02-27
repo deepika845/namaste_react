@@ -1,0 +1,22 @@
+{
+  "name": "namste_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepika845/namaste_react.git"
+  },
+  "author": "Deepika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepika845/namaste_react/issues"
+  },
+  "homepage": "https://github.com/deepika845/namaste_react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
